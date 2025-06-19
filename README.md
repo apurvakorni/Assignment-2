@@ -1,4 +1,4 @@
-# Weather Web App 🌦️
+# Weather Web App using Flask 🌦️
 
 This is a weather dashboard built using **HTML**, **CSS**, **JavaScript**, and **Flask (Python)**. It was developed as a part of **CSCI-571**.
 
