@@ -1,6 +1,6 @@
 # Weather Web App 🌦️
 
-This is a weather dashboard built using **HTML**, **CSS**, **JavaScript**, and **Flask (Python)**. It was developed as part of **CSCI-571**.
+This is a weather dashboard built using **HTML**, **CSS**, **JavaScript**, and **Flask (Python)**. It was developed as a part of **CSCI-571**.
 
 ## 📁 Project Structure
 
