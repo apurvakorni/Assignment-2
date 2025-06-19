@@ -25,7 +25,7 @@ Weather data is retrieved from the **Tomorrow.io API** and displayed in:
 - **HTML5, CSS3, JavaScript** – Frontend UI and interaction
 - **Tomorrow.io API** – Weather data
 - **Google Maps Geocoding API** – Convert address to coordinates
-- **ipinfo.io** – Detect user location via IP
+- **ipinfo.io** – API to detect user location via IP
 - **Highcharts** – Temperature & hourly forecast visualizations
 - **Google Cloud App Engine** – Deployment platform
 - **Git & GitHub** – Version control
