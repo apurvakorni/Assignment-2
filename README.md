@@ -1,4 +1,4 @@
-# 🌦️ Weather Search Web App using Flask
+# 🌦️ Weather Search Web App using Flask and JS
 
 This repository contains my submission for **Assignment 2** of **CSCI 571: Web Technologies**, completed as part of my graduate coursework at the **University of Southern California (USC)**.
 
