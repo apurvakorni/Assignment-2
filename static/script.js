@@ -59,7 +59,7 @@ document.getElementById('weatherForm').addEventListener('submit', function(e) {
         stateInput.disabled = false;
 
         const address = `${streetInput.value}, ${cityInput.value}, ${stateInput.value}`;
-        fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(address)}&key=AIzaSyB4CxdFtilbayylSXRSYUIad1Z7IOb6m7Y`)
+        fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(address)}&key=${apiKey}`)
             .then(response => response.json())
             .then(data => {
                 console.log("Google Geocoding API response:", data);
